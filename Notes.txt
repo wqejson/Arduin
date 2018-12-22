@@ -1,3 +1,4 @@
 22.12 --- Am adaugat o paleta de culori pe care sa o folosim. Site-ul de unde l-am luat: https://coolors.co/
      	  Am organizat putin index-ul.
+	  Vreau sa fac ceva cool cu stele in background, dar nu am timp acum.
 	  
