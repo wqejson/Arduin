@@ -1,1 +1,1 @@
-This is Pulse
+Pulse
