@@ -17,6 +17,6 @@ body {
 
 
 #particles-js{
-	padding: cover;
+	height: 100vh;
 	background-color: #1d3557;
 }
