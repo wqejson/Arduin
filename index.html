@@ -6,6 +6,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link href="Design/navigation_bar.css" rel="stylesheet"/>
 		<link href="Design/main.css" rel="stylesheet"/>		
 		<title>Pulse</title>
 	</head>
@@ -16,15 +17,25 @@
 				<script src="Script/change_text.js"></script>
 			</div>
 		
-			<div id = "particles-js"></div>	
-		
+			<div id = "particles-js"></div>			
 			<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+
 			<script>
 				particlesJS.load('particles-js', 'particles.json',
         	    function(){
         	    	console.log('particles.json loaded...')
-    	 	})
+    	 		})
 			</script>
+			
+			<nav id="navbar">
+				<ul>
+					<li><a class="active" href="#">Acasă</a></li>
+					<!--
+					<li><a href="news.html">Noutați</a></li>
+					-->
+					<li><a href="about.html">Despre</a></li>								
+				</ul>
+			</nav>
 
 	</body>
 	
