@@ -22,7 +22,7 @@ nav{
 
 #navbar a{	
 	margin: 0;
-	padding: 12px 24px;	
+	padding: 24px 24px;	
 	color: white;
 	display: block;	
 	text-decoration: none;
@@ -30,13 +30,8 @@ nav{
 }
 
 #navbar a:hover{
-	background-image: linear-gradient(to top, transparent, #416e71);
-	border-bottom: 2px solid #6da7ab;
-}
-
-#navbar a.active{	
-	background-image: linear-gradient(to top, transparent, #416e71);
-	border-bottom: 2px solid #6da7ab;
+	background-image: linear-gradient(to top, transparent, black);
+	border-bottom: 2px solid black;
 }
 
 .content {

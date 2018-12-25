@@ -34,3 +34,10 @@ div.intro{
 #navbar ul{
 	position: absolute;	
 }
+
+div.logo img{
+	margin: 10px;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}
