@@ -26,8 +26,8 @@ div.intro{
 }
 
 #particles-js{
-	height: 50%;
-	width: 100%;
+	height: 50vh;
+	width: 100vw;
 	background-image: radial-gradient(black, #0e103d, #69306d);
 }
 
