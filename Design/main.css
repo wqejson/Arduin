@@ -17,16 +17,17 @@ div.intro{
 	justify-content: center;
 	position: absolute;
 	text-align: center;
-	top: 25%;
+	top: 27%;
 	width: 100%;
-	line-height: 0.4em;
-	
-	
+	line-height: 0.4em;	
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
+	font-family: 'Amaranth';
 }
 
 #particles-js{
 	height: 50%;
 	width: 100%;
-	background-color: #1d3557;
+	background-image: radial-gradient(black, #0e103d, #69306d);
 }
 
