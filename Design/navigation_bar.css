@@ -5,7 +5,8 @@ nav{
 }
 
 #navbar ul{	
-    list-style-type: none;
+		list-style-type: none;
+		font-size: 20px;
 		margin: 0;
     padding: 0;
     overflow: hidden;   
@@ -22,7 +23,7 @@ nav{
 
 #navbar a{	
 	margin: 0;
-	padding: 24px 24px;	
+	padding: 50px 40px 20px 40px;	
 	color: white;
 	display: block;	
 	text-decoration: none;
@@ -31,7 +32,7 @@ nav{
 
 #navbar a:hover{
 	background-image: linear-gradient(to top, transparent, black);
-	border-bottom: 2px solid black;
+	border-bottom: 2px solid white;
 }
 
 .content {

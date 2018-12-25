@@ -36,8 +36,18 @@ div.intro{
 }
 
 div.logo img{
-	margin: 10px;
+	margin: 10px 20px;
 	height: 100px;
 	width: 100px;
 	position: absolute;
+}
+
+div.logo h1{
+	position: absolute;
+	color: #69306d;
+	margin: 25px 150px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 60px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: white;
 }
