@@ -6,10 +6,10 @@ nav{
 
 #navbar ul{	
     list-style-type: none;
-    margin: 0;
+		margin: 0;
+		float: right;
     padding: 0;
-    overflow: hidden;
-    background-color: #253f41;    
+    overflow: hidden;   
     top: 0;
     width: 100%;
 }
@@ -30,12 +30,12 @@ nav{
 }
 
 #navbar a:hover{
-	background-image: linear-gradient(to top, #253f41, #2c4a4d, #335658, #3a6265, #416e71);
+	background-image: linear-gradient(to top, transparent, #416e71);
 	border-bottom: 2px solid #6da7ab;
 }
 
 #navbar a.active{	
-	background-image: linear-gradient(to top, #253f41, #2c4a4d, #335658, #3a6265, #416e71);
+	background-image: linear-gradient(to top, transparent, #416e71);
 	border-bottom: 2px solid #6da7ab;
 }
 

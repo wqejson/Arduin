@@ -31,3 +31,7 @@ div.intro{
 	background-image: radial-gradient(black, #0e103d, #69306d);
 }
 
+#navbar{
+	position: absolute;
+	text-align: center;
+}
