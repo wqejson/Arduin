@@ -17,7 +17,7 @@ div.intro{
 	justify-content: center;
 	position: absolute;
 	text-align: center;
-	top: 27%;
+	top: 23.5%;
 	width: 100%;
 	line-height: 0.4em;	
 	-webkit-text-stroke-width: 1px;
@@ -31,7 +31,6 @@ div.intro{
 	background-image: radial-gradient(black, #0e103d, #69306d);
 }
 
-#navbar{
-	position: absolute;
-	text-align: center;
+#navbar ul{
+	position: absolute;	
 }
