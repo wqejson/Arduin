@@ -6,7 +6,6 @@ nav{
 
 #navbar ul{	
 		list-style-type: none;
-		font-size: 20px;
 		margin: 0;
     padding: 0;
     overflow: hidden;   
@@ -28,9 +27,14 @@ nav{
 	display: block;	
 	text-decoration: none;
 	text-align: center;
+	font-size: 20px;
+	transition: 0.5s;
 }
 
 #navbar a:hover{
+	transition: 0.5s;
+	font-size: 30px;
+	padding: 45px 40px;
 	background-image: linear-gradient(to top, transparent, black);
 	border-bottom: 2px solid white;
 }
