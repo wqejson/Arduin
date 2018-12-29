@@ -59,6 +59,14 @@ div.logo h1{
 div.news{
 }
 
+div.AboutUs p{
+	margin: 10px;
+	padding: 10px;
+	border: 10px;
+	font-size: 20px;
+	text-align: left;
+}
+
 footer {
 	padding: 10px 0;
 	text-align: center;
