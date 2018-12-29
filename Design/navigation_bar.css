@@ -32,8 +32,8 @@ nav{
 }
 
 #navbar a:hover{
-	transition: 0.5s;
-	font-size: 30px;
+	transition: 0.1s;
+	font-size: 20px;
 	padding: 45px 40px;
 	background-image: linear-gradient(to top, transparent, black);
 	border-bottom: 2px solid white;
