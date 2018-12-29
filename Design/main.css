@@ -67,6 +67,22 @@ div.AboutUs p{
 	border: 10px;
 	font-size: 20px;
 	text-align: left;
+	display: inline-block;
+}
+
+div.AboutUs img{
+	width: 200px;
+	height: 200px;
+	border: 1px;
+	
+}
+
+div.AboutUs h1{
+	padding: 0px;
+	margin: 5px;
+	border: 10px;
+	text-align: right;
+	
 }
 
 footer {
