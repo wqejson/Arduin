@@ -57,14 +57,11 @@ div.logo h1{
 }
 
 div.news{
-	margin: 50px 0;
-	padding: 0 50px;
+	margin: 0 0 0 50px;
 }
 
 div.AboutUs p{
-	margin: 10px;
-	padding: 10px;
-	border: 10px;
+	margin: 0 0 0 50px;
 	font-size: 30px;
 	text-align: left;
 	display: inline-block;
@@ -83,13 +80,9 @@ div.AboutUs img{
 }
 
 div.AboutUs h1{
-	padding: 0px;
-	margin: 5px;
-	border: 10px;
+	margin: 0 0 0 50px;
 	text-align: left;
-	font-size: 40px;
-	display: inline-block;
-	
+	font-size: 40px;	
 }
 
 footer {
