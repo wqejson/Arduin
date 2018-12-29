@@ -37,17 +37,3 @@ nav{
 	background-image: linear-gradient(to top, transparent, black);
 	border-bottom: 2px solid white;
 }
-
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
