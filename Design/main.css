@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #f1faee;
+	background-color: #ffffff	;
 }
 
 div.intro{
@@ -88,10 +88,14 @@ div.AboutUs img{
 }
 
 div.AboutUs h1{
-	margin-right: 150px;
-	text-align: right;
+	margin-right: 400px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	float: right;
 	font-size: 40px;
-	font-family: Poppins;	
+	font-family: Poppins;
+	display: inline-block;
 }
 
 footer {
