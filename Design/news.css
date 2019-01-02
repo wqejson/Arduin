@@ -1,0 +1,16 @@
+div.News h1{
+    margin: 50px 0 50px 100px;
+
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: 3px;    
+    font-size: 40px;
+}
+
+div.News h3{
+    margin: 50px 0 50px 100px;
+
+    text-align: left;    
+    letter-spacing: 2px;    
+    font-size: 30px;
+}

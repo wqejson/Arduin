@@ -1,10 +1,11 @@
  * {
 	margin: 0;
 	padding: 0;
+	max-width: 100%;   
 }
 
 body {
-	background-color: #ffffff	;
+	background-color: #ffffff;
 }
 
 div.intro{
@@ -54,10 +55,7 @@ div.logo h1{
 	font-size: 60px;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: white;
-}
-
-div.news{
-	margin: 0 0 0 50px;
+	z-index: 2;
 }
 
 div.AboutUs{
