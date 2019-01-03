@@ -1,16 +1,29 @@
-div.News h1{
+div.Offers{
+    border-top: 5px solid black; 
+}
+
+div.Offers h1{
     margin: 50px 0 50px 100px;
 
     text-align: left;
     text-decoration: underline;
     letter-spacing: 3px;    
     font-size: 40px;
+    font-family: 'Staatliches', cursive;
+
 }
 
-div.News h3{
+div.Offers h3{
     margin: 50px 0 50px 100px;
 
     text-align: left;    
     letter-spacing: 2px;    
     font-size: 30px;
 }
+
+div.Offers p{
+    margin: 50px 0 50px 100px;
+
+    letter-spacing: 1px;
+    font-size: 20px;
+} 
