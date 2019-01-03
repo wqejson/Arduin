@@ -63,14 +63,9 @@ div.AboutUs{
 	margin-top: 50px;
 }
 
-div.AboutUs p{
+div.AboutUs_introduction p.title{
 	margin-left: 70px;
 	margin-right: 20px;
-	margin-top: 20px;
-	font-size: 20px;
-	text-align: right;
-	display: inline-block;
-	font-family: Poppins;
 }
 
 div.AboutUs_introduction p{
@@ -81,9 +76,7 @@ div.AboutUs_introduction p{
 	font-size: 16px;
 	text-align: left;
 	display: inline-block;
-	font-family : Poppins;
-	
-	
+	font-family : Poppins;	
 }
 
 div.AboutUs img{
@@ -96,16 +89,6 @@ div.AboutUs img{
 	
 }
 
-div.AboutUs h1{
-	margin-right: 7;
-	margin-top: 0px;
-	margin-left: 0px;
-	margin-bottom: 0px;
-	float: right;
-	font-size: 40px;
-	font-family: Poppins;
-	
-}
 
 footer {
 	padding: 10px 0;
