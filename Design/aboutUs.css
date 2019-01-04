@@ -10,7 +10,7 @@ div.AboutUs_introduction p.title{
 div.AboutUs_introduction p{
 
 	margin-left : 70px;
-	margin-right: 20px;
+	margin-right: 200px;
 	margin-top: 20px;
 	font-size: 16px;
 	text-align: left;
@@ -24,6 +24,7 @@ div.AboutUs img{
 	margin: 20px;
 	border: 1px;
 	float: left;
-	margin-left: 80px;
+	margin-left: 320px;
+	
 	
 }
