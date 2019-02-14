@@ -1,0 +1,62 @@
+{% extends "index.html" %}
+{% load staticfiles %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+    <link href="https://fonts.googleapis.com/css?family=Staatliches" rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Delius' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css"  href="{% static 'design/aboutUs.css' %}">
+</head>
+<body>
+<div class = "AboutUs">
+ <div class = "AboutUs_introduction">
+                <p align = 'center'>
+                <img src = "{% static 'images/building.jpg' %}" alt ="" allign = "center" >
+                <br><br><br><br>
+                <font size = 10 ><strong>What is Pulse ?</strong></font><br><br><br>
+                'm a Russian girl and I don't understand all thos e stereotypes 'bout
+                open a door by herself and always need to be money provided by a ma
+                If someon is like that, it's not about nation, it's about upbringin
+                The untold tragedy of 28 Mauritanian soldiers executed on Independe
+                Written by Abdoulaye Bah · Sub-Saharan Africa
+            </p>
+            </p>
+            </div>
+        </div>
+            <div class = "team-section">
+                <h1>Our Team</h1>
+                <span class="border"></span>
+                <div class = "ps">
+                    <a href = "#p1"><img src="{% static 'images/elon.jpg' %}" alt=""></a>
+                    <a href = "#p2"><img src = "{% static 'images/mark.jpg' %}" alt=""></a>
+
+                </div>
+
+                <div class = "section" id ="p1">
+                    <span class = "name">Ivan Vasile</span>
+                    <span class = "border"></span>
+                    <p>
+                        Ivan vasile CEO a projectului ivan vasile 2.0 okay that's a really retarded text
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+
+                    </p>
+                </div>
+
+                <div class = "section" id ="p2">
+                    <span class = "name">Vanea Ivanov</span>
+                    <span class = "border"></span>
+                    <p>
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+                        Veanea ivanov our profesional CEO of that dummy random text made by me
+                    </p>
+                </div>
+            </div>
+</body>
+</html>
+{% endblock content %}
